@@ -1,0 +1,22 @@
+{
+  "vocabulary": [
+    { "dutch": "appel", "french": "pomme" },
+    { "dutch": "brood", "french": "pain" },
+    { "dutch": "kaas", "french": "fromage" },
+    { "dutch": "melk", "french": "lait" },
+    { "dutch": "vlees", "french": "viande" },
+    { "dutch": "vis", "french": "poisson" },
+    { "dutch": "groente", "french": "légume" },
+    { "dutch": "fruit", "french": "fruit" },
+    { "dutch": "taart", "french": "tarte" },
+    { "dutch": "koffie", "french": "café" },
+    { "dutch": "thee", "french": "thé" },
+    { "dutch": "suiker", "french": "sucre" },
+    { "dutch": "zout", "french": "sel" },
+    { "dutch": "peper", "french": "poivre" },
+    { "dutch": "stoofpot", "french": "ragoût" },
+    ... // additional words up to 200 
+    { "dutch": "koken", "french": "cuisiner", "conjugation": { "ik": "kook", "jij": "kookt", "hij/zij/het": "kookt", "wij/jullie/zij": "koken" } },
+    { "dutch": "bakken", "french": "cuire", "conjugation": { "ik": "bak", "jij": "bakt", "hij/zij/het": "bakt", "wij/jullie/zij": "bakken" } }
+  ]
+}
